@@ -1,0 +1,21 @@
+body, html {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  font-size: 1em;
+  font-family: 'Poppins';
+  background: #F0F8FF;
+}
+table{
+
+  padding-top: 2vmin;
+  padding-bottom: 2vmin;
+  padding-left: 5vmin;
+  padding-right: 5vmin;
+  margin-top:2vmin;
+  margin-bottom: 2vmin;
+  margin-left: 5vmin;
+  margin-right: 5vmin;
+
+
+};
